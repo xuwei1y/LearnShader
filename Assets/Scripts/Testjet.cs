@@ -9,6 +9,7 @@ public class Testjet : MonoBehaviour
     {
         int i = 0;
         //随便加个注释 测试git
+        //再水边加个注释
         Debug.LogError(i);
     }
 
